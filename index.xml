@@ -17,7 +17,7 @@
       <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://vishwasbasotra.github.io/vishwasbasotra/post/project-5/</guid>
-      <description>The application of machine learning methods has become present in everyday life. From recommendations of which movies to watch, to which products to buy and recognizing your friends on social media, machine learning algorithms that learn from input/output pairs are called supervised learning algorithms because a “teacher” provides supervision to the algorithms in the form of the desired outputs for each example that they learn from. As creating a dataset of inputs and outputs is often a manual process, supervised learning algorithms are well understood and their performance is easy to measure.</description>
+      <description>This Web App is going to classify the iris flowers for us using Artificial Neural Networks (ANN). The application of machine learning methods has become present in everyday life. From recommendations of which movies to watch, to which products to buy and recognizing your friends on social media, machine learning algorithms that learn from input/output pairs are called supervised learning algorithms because a “teacher” provides supervision to the algorithms in the form of the desired outputs for each example that they learn from.</description>
     </item>
     
     <item>
