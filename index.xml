@@ -6,10 +6,19 @@
     <description>Recent content on Vishwas Basotra</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Jun 2020 11:00:59 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://vishwasbasotra.github.io/vishwasbasotra/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Project V: Flower Classification Web App</title>
+      <link>https://vishwasbasotra.github.io/vishwasbasotra/post/project-5/</link>
+      <pubDate>Thu, 11 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vishwasbasotra.github.io/vishwasbasotra/post/project-5/</guid>
+      <description>The application of machine learning methods has become present in everyday life. From recommendations of which movies to watch, to which products to buy and recognizing your friends on social media, machine learning algorithms that learn from input/output pairs are called supervised learning algorithms because a “teacher” provides supervision to the algorithms in the form of the desired outputs for each example that they learn from. As creating a dataset of inputs and outputs is often a manual process, supervised learning algorithms are well understood and their performance is easy to measure.</description>
+    </item>
     
     <item>
       <title>Project IV: Credit Card Fraud Detection</title>
@@ -17,7 +26,7 @@
       <pubDate>Fri, 05 Jun 2020 11:00:59 -0400</pubDate>
       
       <guid>https://vishwasbasotra.github.io/vishwasbasotra/post/project-4/</guid>
-      <description>Credit Card Fraud Detection In today’s world, we are on the express train to a cashless society. According to the World Payments Report, in 2016 total non-cash transactions increased by 10.1% from 2015 for a total of 482.6 billion transactions! That’s huge! Also, it’s expected that in future years there will be a steady growth of non-cash transactions.
+      <description>In today’s world, we are on the express train to a cashless society. According to the World Payments Report, in 2016 total non-cash transactions increased by 10.1% from 2015 for a total of 482.6 billion transactions! That’s huge! Also, it’s expected that in future years there will be a steady growth of non-cash transactions.
 Now, while this might be exciting news, on the flip-side fraudulent transactions are on the rise as well.</description>
     </item>
     
@@ -27,7 +36,7 @@ Now, while this might be exciting news, on the flip-side fraudulent transactions
       <pubDate>Sun, 31 May 2020 11:00:59 -0400</pubDate>
       
       <guid>https://vishwasbasotra.github.io/vishwasbasotra/post/project-3/</guid>
-      <description>E-Signing of Loan Based on Financial History Lending companies work by analyzing the financial history of their loan applicants and choosing whether or not the applicant is too risky to be given a loan. If the applicant is not, the company determines the terms of the loan. To acquire these applicants, companies can organically receive them through their websites/apps, often with the help of advertisement campaigns. Other times, lending companies partner with peer-to-peer(P2P) lending marketplaces, to acquire leads of possible applicants.</description>
+      <description>Lending companies work by analyzing the financial history of their loan applicants and choosing whether or not the applicant is too risky to be given a loan. If the applicant is not, the company determines the terms of the loan. To acquire these applicants, companies can organically receive them through their websites/apps, often with the help of advertisement campaigns. Other times, lending companies partner with peer-to-peer(P2P) lending marketplaces, to acquire leads of possible applicants.</description>
     </item>
     
     <item>
@@ -36,7 +45,7 @@ Now, while this might be exciting news, on the flip-side fraudulent transactions
       <pubDate>Wed, 27 May 2020 11:00:59 -0400</pubDate>
       
       <guid>https://vishwasbasotra.github.io/vishwasbasotra/post/project-2/</guid>
-      <description>Movie Recommender Systems Recommender systems are algorithms designed to help users discover movies, products, and songs by predicting the user’s rating of each item and displaying similar items that they might rate high as well. The objective is to show customers content that they would like best based on their historical activity.
+      <description>Recommender systems are algorithms designed to help users discover movies, products, and songs by predicting the user’s rating of each item and displaying similar items that they might rate high as well. The objective is to show customers content that they would like best based on their historical activity.
 We will discuss two types of recommender systems: Demographic Filtering- They offer generalized recommendations to every user, based on movie popularity and/or genre.</description>
     </item>
     
@@ -46,7 +55,7 @@ We will discuss two types of recommender systems: Demographic Filtering- They of
       <pubDate>Sun, 24 May 2020 10:58:08 -0400</pubDate>
       
       <guid>https://vishwasbasotra.github.io/vishwasbasotra/post/project-1/</guid>
-      <description>Breast Cancer Classification Breast cancer (BC) is one of the most common cancers among women worldwide, representing the majority of new cancer cases and cancer-related deaths according to global statistics, making it a significant public health problem in today’s society.
+      <description>Breast cancer (BC) is one of the most common cancers among women worldwide, representing the majority of new cancer cases and cancer-related deaths according to global statistics, making it a significant public health problem in today’s society.
 The early diagnosis of BC can improve the prognosis and chance of survival significantly, as it can promote timely clinical treatment to patients. Further accurate classification of benign tumors can prevent patients undergoing unnecessary treatments.</description>
     </item>
     
