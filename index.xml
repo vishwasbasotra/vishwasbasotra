@@ -6,7 +6,7 @@
     <description>Recent content on Vishwas Basotra</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://vishwasbasotra.github.io/vishwasbasotra/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,10 +14,19 @@
     <item>
       <title>Project VI: Bangalore Real Estate Price Prediction Web App</title>
       <link>https://vishwasbasotra.github.io/vishwasbasotra/post/project-6/</link>
-      <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://vishwasbasotra.github.io/vishwasbasotra/post/project-6/</guid>
       <description>This Model/WebApp predicts real estate price in Bangalore. Many times we have come across websites like &amp;ldquo;Magicbricks.com&amp;rdquo; where they sell and estimate the price of the property in many part of the country, so this model is also inspired by the concept of predicting property prices based on the area, bedrooms, bathrooms and location. Firstly I built the model using sklearn and machine learning algorithm using Bangalore home prices dataset from kaggle.</description>
+    </item>
+    
+    <item>
+      <title>Project VI: Bangalore Real Estate Price Prediction Web App</title>
+      <link>https://vishwasbasotra.github.io/vishwasbasotra/post/project-7/</link>
+      <pubDate>Sun, 14 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vishwasbasotra.github.io/vishwasbasotra/post/project-7/</guid>
+      <description>This Web App is going to classify the iris flowers for us using Artificial Neural Networks (ANN). The application of machine learning methods has become present in everyday life. From recommendations of which movies to watch, to which products to buy and recognizing your friends on social media, machine learning algorithms that learn from input/output pairs are called supervised learning algorithms because a “teacher” provides supervision to the algorithms in the form of the desired outputs for each example that they learn from.</description>
     </item>
     
     <item>
