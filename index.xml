@@ -6,10 +6,19 @@
     <description>Recent content on Vishwas Basotra</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://vishwasbasotra.github.io/vishwasbasotra/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Project VII: Celebrity Face Recognition WebApp</title>
+      <link>https://vishwasbasotra.github.io/vishwasbasotra/post/project-7/</link>
+      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://vishwasbasotra.github.io/vishwasbasotra/post/project-7/</guid>
+      <description>In this data science and machine learning project, we classify sports personalities. We restrict classification to only 5 people. In this model firstly we collected images of the athletes from the internet and then cropped all the face detected in images using OpenCV. Then we Wavelets transformed the images to extract the key feature of the faces. Then we created a training set to train the data. We tried many algorithms but chose SVM as it was giving the best results.</description>
+    </item>
     
     <item>
       <title>Project VI: Bangalore Real Estate Price Prediction Web App</title>
